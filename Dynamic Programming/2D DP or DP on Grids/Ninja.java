@@ -87,8 +87,8 @@ class Ninja {               // TC O(4*3*N). SC = O(N) Space will be O(4) array s
                     }
                 }
             }
+            
         }
         System.out.println(dp[n - 1][3]);
     }
-
 }
