@@ -1,0 +1,6 @@
+* Isomorphic Strings
+* 599 -> Minimum Index Sum of Two Lists
+* 387
+* Union and Intersection of 2 arrays
+* contains duplicate?
+
